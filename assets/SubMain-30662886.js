@@ -1,0 +1,1 @@
+import{d as _,h as e,_ as a}from"./index-3291ef10.js";const n=_({__name:"SubMain",props:{msg:null},setup(s){return e(0),(t,o)=>" SubMain "}});const r=a(n,[["__scopeId","data-v-7305fa6f"]]);export{r as default};
